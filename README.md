@@ -1,2 +1,3 @@
-# eib-prow-poc
-Repository to use for Prow PoC
+# Edge Image Builder (EIB)
+
+This repository is used for Prow PoC.
